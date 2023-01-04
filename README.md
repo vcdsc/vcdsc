@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello! 👋 :slightly_smiling_face:
+
+- 🌱 In the early stages of my Front-End Web Development learning journey.
+- :black_nib: Planning to use [this space](https://dev.to/vcdsc) to document my progress.
 
 <!--
 **vcdsc/vcdsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
